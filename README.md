@@ -1,2 +1,2 @@
 # javatex
-A desktop utility to ease the use of Latex.
+A desktop utility made with java to ease the use of Latex.
