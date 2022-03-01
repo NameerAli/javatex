@@ -1,5 +1,11 @@
-#javatex
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+> Follow your heart.
+ 
+ 
+# javatex
 A desktop utility made with java to ease the use of Latex.
+
 
 
 Version 1.0
