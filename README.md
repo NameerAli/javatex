@@ -11,7 +11,7 @@ A desktop utility made with java to ease the use of Latex.
 Version 1.0
 December 2021
 Contact : nameer18606@gmail.com
-GitHub: 
+GitHub: https://github.com/NameerAli/javatex
 
 Description:
 Lightweight text to LaTeX converter implemented in java. 
