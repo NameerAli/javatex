@@ -1,6 +1,6 @@
 ![](https://github.com/NameerAli/javatex/blob/0e9baefd0e27cfb07c26ba34c230382a5195a305/src/data/images/1ss.png)
 
-> Made LaTeX Easy.
+> LaTeX Made Easy.
  
  
 # javatex
